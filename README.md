@@ -1,0 +1,1 @@
+# impala_kudu_xdb_resource_file
